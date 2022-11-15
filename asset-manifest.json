@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.77d1ea4a.css",
-    "main.js": "/static/js/main.e2c8edbb.js",
+    "main.css": "/static/css/main.344d299a.css",
+    "main.js": "/static/js/main.b024258d.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/micron-tb-chip.webp": "/static/media/micron-tb-chip.96ed272c81030f9c1db0.webp",
     "index.html": "/index.html",
-    "main.77d1ea4a.css.map": "/static/css/main.77d1ea4a.css.map",
-    "main.e2c8edbb.js.map": "/static/js/main.e2c8edbb.js.map",
+    "main.344d299a.css.map": "/static/css/main.344d299a.css.map",
+    "main.b024258d.js.map": "/static/js/main.b024258d.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77d1ea4a.css",
-    "static/js/main.e2c8edbb.js"
+    "static/css/main.344d299a.css",
+    "static/js/main.b024258d.js"
   ]
 }
